@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <labels>
+  	<lang description="Content progress bar loading" en="Loading %3%%" translation="Yükleniyor %3%%"/>
+	<lang description="Content progress bar loaded" en="Content loaded" translation="İçerik yüklendi"/>
+	<lang description="Exit window title" en="Close Program" translation="Programı Kapat"/>
+	<lang description="Exit confirm button" en="OK" translation="TAMAM"/>
+	<lang description="Help window title" en="Help" translation="Yardım"/>
+	<lang description="Settings window title" en="Settings" translation="Ayarlar"/>
+	<lang description="Notes window title" en="Notes" translation="Notlar"/>
+	<lang description="Content List window title" en="Content List" translation="İçerik Listesi"/>
+	<lang description="Language Settings title" en="Language Settings" translation="Dil Ayarları"/>
+	<lang description="Select Your Language label" en="Select Your Language:" translation="Dil Seçiniz:"/>
+	<lang description="Remember My Language Selection Label" en="Remember my selection" translation="Dil seçimimi hatırla"/>
+	<lang description="Content Tracking label" en="Content Tracking" translation="İçerik Takibi"/>
+	<lang description="Continue From Last Content label" en="Continue from last content" translation="Kaldığım yerden devam et"/>
+  	<lang description="Update Settings label" en="Update Settings" translation="Güncelleme Ayarları"/>
+	<lang description="New Version Control label" en="New version control:" translation="Yeni sürüm kontrolü:"/>
+	<lang description="New Version description" en="New version control requires Internet connection. Please check your Internet connection before update." translation="Yeni sürüm kontrolü İnternet bağlantısı gerektirmektedir. Lütfen güncelleme yapmadan önce İnternet bağlantınızı kontrol ediniz."/>
+	<lang description="New Version result - avaliable" en="- New version avaliable -" translation="- Yeni sürüm mevcut -"/>
+	<lang description="New Version result - up to date" en="- Version uptodate -" translation="- Sürüm güncel -"/>
+	<lang description="New Version result - fail" en="- Unable to connect server -" translation="- Sunucuya bağlanılamıyor -"/>
+	<lang description="Update Not Avaliable description" en="Update is not avaliable" translation="Güncelleme özelliği aktif değil."/>
+	<lang description="Theme Settings label" en="Theme Settings" translation="Tema Ayarları"/>
+	<lang description="Select Your Theme label" en="Select your theme:" translation="Temanızı seçiniz:"/>
+	<lang description="Remember My Theme Selection Label" en="Remember my theme selection" translation="Tema seçimimi hatırla"/>
+  </labels>
+  <buttons>
+	<lang description="Settings button" en="Settings" translation="Ayarlar"/>
+	<lang description="Help button" en="Help" translation="Yardım"/>
+	<lang description="Exit button" en="Exit" translation="Çıkış"/>
+	<lang description="Next button" en="Next" translation="Sonraki"/>
+	<lang description="Previous button" en="Previous" translation="Önceki"/>
+	<lang description="Replay button" en="Replay" translation="Tekrar"/>
+	<lang description="Content List button" en="Content List" translation="İçerik Listesi"/>
+	<lang description="Notes button" en="Notes" translation="Notlar"/>
+	<lang description="Volume button" en="Volume" translation="Ses"/>
+	<lang description="Check For New Version button" en="Check for new version" translation="Yeni sürüm kontrolü yap"/>
+	<lang description="New Version Download button" en="Download" translation="Yükle"/>
+  </buttons>
+</language>

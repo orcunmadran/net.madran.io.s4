@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<main>
+  <defaults>
+	<institutionLogo>logo.swf</institutionLogo>
+	<institutionWebURL>http://www.adres.edu.tr</institutionWebURL>
+	<courseName>DERS BAŞLIĞI</courseName>
+	<courseCode>D100</courseCode>
+	<courseVersion>1</courseVersion>
+	<updateControlPath>xml/updateControl.xml</updateControlPath>
+	<updatePath>http://www.adres.edu.tr/D100.zip</updatePath>
+	<languagePath>lang/tr.xml</languagePath>
+	<themeColor>haloBlue</themeColor>
+  </defaults>
+  <node>
+	<node label="Ana Başlık" content="icerik.swf">
+		<node label="Alt Başlık" content="icerik.swf"/>
+	</node>
+  </node>
+</main>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<lang codeL="EN" nameL="English" sourceL="lang/en.xml"/>
+	<lang codeL="TR" nameL="Turkish" sourceL="lang/tr.xml"/>
+</language>

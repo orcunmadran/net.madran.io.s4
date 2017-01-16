@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <labels>
+  	<lang description="Content progress bar loading" en="Loading %3%%" translation="Loading %3%%"/>
+	<lang description="Content progress bar loaded" en="Content loaded" translation="Content loaded"/>
+	<lang description="Exit window title" en="Close Program" translation="Close Program"/>
+	<lang description="Exit confirm button" en="OK" translation="OK"/>
+	<lang description="Help window title" en="Help" translation="Help"/>
+	<lang description="Settings window title" en="Settings" translation="Settings"/>
+	<lang description="Notes window title" en="Notes" translation="Notes"/>
+	<lang description="Content List window title" en="Content List" translation="Content List"/>
+	<lang description="Language Settings title" en="Language Settings" translation="Language Settings"/>
+	<lang description="Select Your Language label" en="Select Your Language:" translation="Select Your Language:"/>
+	<lang description="Remember My Language Selection label" en="Remember my selection" translation="Remember my selection"/>
+	<lang description="Content Tracking label" en="Content Tracking" translation="Content Tracking"/>
+	<lang description="Continue From Last Content label" en="Continue from last content" translation="Continue from last content"/>
+	<lang description="Update Settings label" en="Update Settings" translation="Update Settings"/>
+		<lang description="New Version Control label" en="New version control:" translation="New version control:"/>
+	<lang description="New Version description" en="New version control requires Internet connection. Please check your Internet connection before update." translation="New version control requires Internet connection. Please check your Internet connection before update."/>
+	<lang description="New Version result - avaliable" en="- New version avaliable -" translation="- New version avaliable -"/>
+	<lang description="New Version result - up to date" en="- Version up-to-date -" translation="- Version up-to-date -"/>
+	<lang description="New Version result - fail" en="- Unable to connect server -" translation="- Unable to connect server -"/>
+	<lang description="Update Not Avaliable description" en="Update is not avaliable." translation="Update is not avaliable."/>
+	<lang description="Theme Settings label" en="Theme Settings" translation="Theme Settings"/>
+	<lang description="Select Your Theme label" en="Select your theme:" translation="Select your theme:"/>
+	<lang description="Remember My Theme Selection label" en="Remember my selection" translation="Remember my selection"/>
+  </labels>
+  <buttons>
+	<lang description="Settings button" en="Settings" translation="Settings"/>
+	<lang description="Help button" en="Help" translation="Help"/>
+	<lang description="Exit button" en="Exit" translation="Exit"/>
+	<lang description="Next button" en="Next" translation="Next"/>
+	<lang description="Previous button" en="Previous" translation="Previous"/>
+	<lang description="Replay button" en="Replay" translation="Replay"/>
+	<lang description="Content List button" en="Content List" translation="Content List"/>
+	<lang description="Notes button" en="Notes" translation="Notes"/>
+	<lang description="Volume button" en="Volume" translation="Volume"/>
+	<lang description="Check For New Version button" en="Check for new version" translation="Check for new version"/>
+	<lang description="New Version Download button" en="Download" translation="Download"/>
+  </buttons>
+</language>
